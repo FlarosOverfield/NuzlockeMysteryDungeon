@@ -2,7 +2,7 @@
 
 A Nuzlocke ruleset compatible with all Pokemon Mystery Dungeon games. Not for the emotionally delicate.
 
-# NUZLOCKE MODE
+## Nuzlocke Mode
 
 These rules are obligatory, and nearly identical to nuzlocke rules of other Pokemon games. 
 
@@ -12,7 +12,7 @@ These rules are obligatory, and nearly identical to nuzlocke rules of other Poke
 * You're NOT allowed to delete the save file, reload the save file outside of your bed, or use savestates for any reason. 
 * Your objective is to defeat the last boss before the credits. (Rayquaza, Dialga, Bittercold, Dark Matter.) 
 
-# HUMAN MODE
+## Human Mode
 
 Optional rules only meant to be used by true Humans. You are weak. You can't win. You will die. Your only spark of light in this world, is your Partner. 
 
